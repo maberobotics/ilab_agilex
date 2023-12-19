@@ -80,7 +80,7 @@ To start lidar run
 ```shell
 $ ros2 launch tracer_bringup open_rslidar.launch.py
 ```
-**Note:** To get data from the lidar, the IP of the PC connected to the lidar need to be `192.168.1.102`
+**Note:** To get data from the lidar, the IP of the PC connected to the lidar needs to be `192.168.1.102`
 
 To start cartographer run
 ```shell
